@@ -1,0 +1,86 @@
+*{
+  font-family: sans-serif;
+}
+
+
+.navbar{
+  text-align: center;
+  color: white;
+  background-color: #35424a;
+}
+.nav li{
+  text-align: right;
+    display: inline;
+
+  list-style-type: none;
+  color: #35424a;
+
+}
+.nav li:hover{
+  color: #35424a;
+}
+.zed{
+  padding: 5px;
+  background-color: #35424a;
+
+
+}
+.navba li a{
+  color: #fff;
+  font-family: sans-serif;
+  text-align: right;
+  text-decoration: none;
+}
+h3{
+  color: #fff;
+  text-align: center;
+  background-color: #35424a;
+  padding: 15px;
+}
+.er{
+  background-color: #35424a;
+  padding: 15px;
+  text-align: center;
+  color: #fff
+}
+.qwe{
+  color: #35424a;
+  text-align: center;
+  list-style-type: none;
+  font-family: sans-serif;
+
+}
+img{
+  width: 5px
+  height:5px;
+  border-radius: 50%;
+}
+.tabke{
+  width: 100%;
+  border-collapse: collapse;
+}
+.tabke th{
+  border: 1px solid #555;
+  background-color:  ;
+  color:
+}
+.tabke td{
+  text-align: center;
+  border: 1px solid #555;
+}
+.th{
+  padding: 5px;
+}
+.man{
+  background-color: #35424a;
+  color: #fff;
+  text-align: center;
+  padding: 14px;
+}
+.aq{
+  background: #35424a;
+  color: #fff;
+}
+.qwe{
+  text-decoration: none;
+}
